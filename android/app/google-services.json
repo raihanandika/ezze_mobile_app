@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940742414046",
+    "project_id": "ezze-e1692",
+    "storage_bucket": "ezze-e1692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940742414046:android:f3ca893d0d421b9149bc4f",
+        "android_client_info": {
+          "package_name": "com.example.ezze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940742414046-qu4nu78ciaj8sfc8u873dd2nj75bqhh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwUDi9ZB4AaGDrNKriEVta2q2EmxqEYms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940742414046-qu4nu78ciaj8sfc8u873dd2nj75bqhh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

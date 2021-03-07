@@ -1,0 +1,12 @@
+final int blueBg = 0xFF029CE4;
+final int blueSec = 0xFF029CE3;
+final int lightBlueBg = 0xFF19D9FD;
+final int purpleButton = 0xFFbec6df;
+final int lightGrey = 0xFFF5F6F9;
+final int deepGrey = 0xFF424242;
+final int grey = 0xFF717171;
+final int grey2 = 0xFFe0e0e0;
+final int whiteGrey = 0xFFf5f5f5;
+final int redDove = 0xFFeb5757;
+final int red2 = 0xFFe40707;
+final int yellow = 0xFFF2C94C;
